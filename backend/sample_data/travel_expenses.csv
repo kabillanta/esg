@@ -1,0 +1,22 @@
+Report ID,Employee Name,Expense Type,Transaction Date,Amount,Currency,Origin,Destination,Hotel City,Number of Nights,Distance (miles),Travel Class
+RPT-2024-00123,Jane Smith,Airfare,2024-03-15,"1,234.56",USD,SFO,JFK,,,2586,Economy
+RPT-2024-00123,Jane Smith,Hotel,2024-03-15,850.00,USD,,,New York,3,,
+RPT-2024-00123,Jane Smith,Taxi,2024-03-18,45.00,USD,,,,,,
+RPT-2024-00124,John Doe,Car Rental,2024-03-20,120.00,USD,,,,,180,
+RPT-2024-00124,John Doe,Airfare,2024-03-20,450.00,EUR,LHR,CDG,,,,Business
+RPT-2024-00125,Priya Patel,Airfare,2024-02-11,980.00,USD,BOS,SFO,,,2698,Economy
+RPT-2024-00125,Priya Patel,Hotel,2024-02-11,620.00,USD,,,San Francisco,4,,
+RPT-2024-00126,Mei Chen,Ground Transport,2024-02-13,75.50,USD,,,,,28,
+RPT-2024-00127,Carlos Ruiz,Airfare,2024-01-22,"1,560.00",USD,MAD,JFK,,,,Economy
+RPT-2024-00127,Carlos Ruiz,Hotel,2024-01-22,"1,040.00",USD,,,New York,5,,
+RPT-2024-00128,Aisha Khan,Taxi,2024-01-25,32.00,GBP,,,,,9,
+RPT-2024-00129,Lina Berg,Airfare,2024-02-28,320.00,EUR,FRA,AMS,,,225,Economy
+RPT-2024-00130,Tom Nguyen,Airfare,invalid_date,420.00,USD,SEA,LAX,,,954,Economy
+RPT-2024-00131,Sara Ali,Car Rental,2024-03-02,210.00,USD,,,,,320,
+RPT-2024-00132,Dev Anand,Hotel,2024-03-05,540.00,INR,,,Mumbai,2,,
+RPT-2024-00133,Keiko Tanaka,Ground Transport,2024-03-08,48.00,JPY,,,,,,
+RPT-2024-00134,Omar Haddad,Airfare,2024-03-10,"1,120.00",USD,DXB,BOM,,,,Business
+RPT-2024-00134,Omar Haddad,Hotel,2024-03-10,730.00,USD,,,Mumbai,3,,
+RPT-2024-00135,Emma Rossi,Airfare,2024-03-12,210.00,EUR,MXP,FCO,,,299,Economy
+RPT-2024-00136,Alex Kim,Taxi,2024-03-14,18.00,USD,,,,,4,
+RPT-2024-00137,Sarah Connor,Airfare,2024-03-15,"2,450.00",USD,SYD,LAX,,,,Premium Economy
