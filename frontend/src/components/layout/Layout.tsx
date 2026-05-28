@@ -8,6 +8,7 @@ import {
 } from "lucide-react";
 import { AuthService } from "../../api";
 import toast from "react-hot-toast";
+import GuidedTour from "../GuidedTour";
 
 const Layout = () => {
   const [user, setUser] = useState<any>(null);
@@ -49,6 +50,7 @@ const Layout = () => {
 
   return (
     <div className="app-shell">
+      <GuidedTour />
       <aside className="sidebar">
         <div className="sidebar-brand">
           <div>

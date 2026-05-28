@@ -1,0 +1,16 @@
+Account Number,Meter ID,Service Address,Billing Start Date,Billing End Date,Total kWh,Peak Demand kW,Read Type,Total Charges ($),Rate Schedule
+ACC-2024-001,MTR-A-1001,123 Industrial Blvd Chicago IL,01/15/2024,02/14/2024,"45,230",125.5,Actual,"5,423.50",Commercial-TOU
+ACC-2024-001,MTR-A-1001,123 Industrial Blvd Chicago IL,02/15/2024,03/14/2024,"42,100",120.0,Estimated,"4,900.00",Commercial-TOU
+ACC-2024-001,MTR-A-1001,123 Industrial Blvd Chicago IL,03/15/2024,04/14/2024,"48,750",132.2,Actual,"5,780.25",Commercial-TOU
+ACC-2024-001,MTR-A-1002,123 Industrial Blvd Chicago IL,01/15/2024,02/14/2024,"12,500",40.0,Actual,"1,580.00",Commercial-TOU
+ACC-2024-002,MTR-B-2002,456 Tech Park Austin TX,01/01/2024,01/31/2024,"150,000",300.0,Actual,"12,000.00",Industrial
+ACC-2024-002,MTR-B-2002,456 Tech Park Austin TX,02/01/2024,02/29/2024,"142,500",285.0,Actual,"11,450.00",Industrial
+ACC-2024-002,MTR-B-2002,456 Tech Park Austin TX,03/01/2024,03/31/2024,"151,250",310.0,Actual,"12,350.00",Industrial
+ACC-2024-003,MTR-C-3001,89 Distribution Rd Phoenix AZ,01/20/2024,02/19/2024,"28,900",95.0,Actual,"3,180.75",Commercial
+ACC-2024-003,MTR-C-3001,89 Distribution Rd Phoenix AZ,02/20/2024,03/19/2024,"27,100",90.0,Estimated,"2,980.25",Commercial
+ACC-2024-004,MTR-D-4001,77 Logistics Way Newark NJ,01/10/2024,02/09/2024,"60,400",155.0,Actual,"6,540.10",Commercial-TOU
+ACC-2024-004,MTR-D-4001,77 Logistics Way Newark NJ,02/10/2024,invalid_date,"59,800",150.0,Actual,"6,420.00",Commercial-TOU
+ACC-2024-005,MTR-E-5001,12 R&D Campus Seattle WA,01/05/2024,02/04/2024,"18,750",55.0,Actual,"2,150.00",General-Service-TOU
+ACC-2024-005,MTR-E-5001,12 R&D Campus Seattle WA,02/05/2024,03/05/2024,"17,900",52.0,Actual,"2,020.00",General-Service-TOU
+ACC-2024-006,MTR-F-6001,501 Data Center Rd Ashburn VA,01/01/2024,01/31/2024,"320,500",650.0,Actual,"28,900.00",DataCenter-TOU
+ACC-2024-006,MTR-F-6001,501 Data Center Rd Ashburn VA,02/01/2024,02/29/2024,"315,200",640.0,Actual,"28,200.00",DataCenter-TOU
